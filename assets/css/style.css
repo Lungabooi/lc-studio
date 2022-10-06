@@ -1215,3 +1215,7 @@ p {
 
   position: relative;
 }
+
+.testimonials .testimonial-item p{
+  color: white;
+}
